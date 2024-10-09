@@ -68,8 +68,8 @@
   --smoky-black: hsl(204, 16%, 27%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
-  --orange-yellow-crayola: hsl(229, 76%, 31%);  /* Softer blue #1e3180 */
-  --vegas-gold: hsl(229, 66%, 61%);             /* Same softer blue */
+  --orange-yellow-crayola: hsl(229, 76%, 31%);  
+  --vegas-gold: hsl(184, 54%, 28%);             
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
