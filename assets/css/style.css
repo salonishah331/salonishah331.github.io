@@ -1900,13 +1900,3 @@ textarea.form-input::-webkit-resizer { display: none; }
     background-color: #008f92; /* Darker shade on hover */
 }
 
-/* Optional: Style to match the icon box */
-.icon-box {
-    display: inline-flex; /* Align icon and text */
-    align-items: center; /* Center vertically */
-    margin-right: 0.5rem; /* Spacing between icon and title */
-    background-color: #f0f0f0; /* Change as per your design */
-    border-radius: 5px; /* Make the icon box rounded */
-    padding: 0.5rem; /* Add padding */
-}
-
