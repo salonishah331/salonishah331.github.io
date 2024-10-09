@@ -37,14 +37,14 @@
 
 --bg-gradient-yellow-1: linear-gradient(
   to bottom right, 
-  hsl(240, 100%, 50%) 0%,  /* Dark blue */
-  hsla(240, 100%, 50%, 0) 50%  /* Transparent dark blue */
+  hsl(184, 100%, 35%) 0%,  /* Dark blue */
+  hsla(175, 100%, 35%, 0) 50%  /* Transparent dark blue */
 );
 
 --bg-gradient-yellow-2: linear-gradient(
   135deg, 
-  hsla(240, 100%, 50%, 0.251) 0%,  /* Semi-transparent dark blue */
-  hsla(240, 100%, 50%, 0) 59.86%   /* Transparent dark blue */
+  hsla(184, 100%, 35%, 0.251) 0%,  /* Semi-transparent dark blue */
+  hsla(175, 100%, 35%, 0) 59.86%   /* Transparent dark blue */
 ), hsl(240, 2%, 13%);
 
 --border-gradient-onyx: linear-gradient(
