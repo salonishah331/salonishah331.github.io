@@ -1886,19 +1886,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .resume-btn {
-    display: inline-block; /* Makes it behave like a button */
-    margin-left: 1rem; /* Spacing between the title and the button */
-    padding: 0.5rem 1rem; /* Padding for the button */
-    background: var(--border-gradient-onyx); /* Button background color */
-    width: 95px;
-    height: 40px;
-    border-radius: 8px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 16px;
-    color: var(--white-1);
-    box-shadow: var(--shadow-1);
+    position: relative;
+    background: var(--border-gradient-onyx);
+    padding: 20px;
+    border-radius: 14px;
+    box-shadow: var(--shadow-2);
     z-index: 1;
     transition: background-color 0.3s; /* Smooth transition for hover effect */
 }
