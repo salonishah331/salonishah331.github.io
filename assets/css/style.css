@@ -1887,10 +1887,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .resume-btn {
     position: relative;
-    background: var(--border-gradient-onyx);
+    background: hsla(240, 1%, 17%, 0.75)
     padding: 20px;
     border-radius: 14px;
     box-shadow: var(--shadow-2);
+    color: var(--white-2);
     z-index: 1;
     transition: background-color 0.3s; /* Smooth transition for hover effect */
     display: flex;
