@@ -1893,6 +1893,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     box-shadow: var(--shadow-2);
     z-index: 1;
     transition: background-color 0.3s; /* Smooth transition for hover effect */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 18px;
 }
 
 .resume-btn:hover {
