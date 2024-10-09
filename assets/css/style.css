@@ -1890,7 +1890,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-left: 1rem; /* Spacing between the title and the button */
     padding: 0.5rem 1rem; /* Padding for the button */
     background: var(--border-gradient-onyx); /* Button background color */
-    width: 30px;
+    width: 90px;
     height: 30px;
     border-radius: 8px;
     display: flex;
