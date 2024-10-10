@@ -210,7 +210,7 @@ article {
   z-index: -1;
 }
 
-.doing-box {
+.icon-inner {
   color: var(--bg-gradient-yellow-1);
   width: 30px;
   height: 30px;
