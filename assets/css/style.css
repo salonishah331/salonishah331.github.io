@@ -210,8 +210,10 @@ article {
   z-index: -1;
 }
 
-ion-icon {
-  color: blue;
+.doing-box {
+  color: var(--bg-gradient-yellow-1);
+  width: 30px;
+  height: 30px;
 }
 
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
