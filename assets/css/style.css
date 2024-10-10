@@ -1888,7 +1888,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .resume-btn {
     position: relative;
     background: hsla(240, 1%, 17%, 0.75);
-    padding: 15px;
+    padding: 11px;
     border-radius: 14px;
     box-shadow: var(--shadow-2);
     color: var(--white-2);
