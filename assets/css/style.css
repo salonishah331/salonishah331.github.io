@@ -217,7 +217,7 @@ article {
 }
 
 .doing-box ion-icon {
-  color: hsl(184, 54%, 28%);                /* Set the icon color to aqua */
+  color: hsl(184, 100%, 39%);                /* Set the icon color to aqua */
   font-size: 0.60in;          /* Set the size to approximately 0.75 inches */
   vertical-align: middle;     /* Align the icon vertically with text */
   display: inline-block;      /* Keep the icon inline with the text */
