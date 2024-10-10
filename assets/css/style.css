@@ -216,6 +216,14 @@ article {
   height: 30px;
 }
 
+.doing-box ion-icon {
+  color: aqua;                /* Set the icon color to aqua */
+  font-size: 0.75in;          /* Set the size to approximately 0.75 inches */
+  vertical-align: middle;     /* Align the icon vertically with text */
+  display: inline-block;      /* Keep the icon inline with the text */
+  margin-right: 10px;         /* Optional: add some spacing between the icon and text */
+}
+
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
 article { display: none; }
